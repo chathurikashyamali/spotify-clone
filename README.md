@@ -15,8 +15,6 @@ A sleek, responsive **Spotify Clone** web application built with **React.js** an
 - 🎼 **Music Player**  
   Fully functional player with **Play**, **Pause**, and **Skip** controls.
 
-- 🔍 **Search and Browse** *(if implemented)*  
-  Navigate playlists, artists, and tracks.
 
 - 🔁 **Routing with React Router**  
   Seamless page navigation between Home, Search, and Playlists.
@@ -39,9 +37,12 @@ A sleek, responsive **Spotify Clone** web application built with **React.js** an
 
 ## 📸 Demo
 
-> *(Add a screenshot or GIF here to showcase the UI)*  
-> Example:  
-> ![App Screenshot](screenshot.png)
+> *(![image](https://github.com/user-attachments/assets/33b2f668-132b-4969-b630-f20b388166e1)
+)*
+> *(![image](https://github.com/user-attachments/assets/9d4c27f4-858a-44df-be95-224197871350)
+>  *(![image](https://github.com/user-attachments/assets/98b88991-721c-4a20-bf7a-f8e6869a540a)
+)
+
 
 ---
 
